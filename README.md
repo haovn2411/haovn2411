@@ -33,7 +33,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
      <!-- rabbitmq-masstransit-fanout-exchange -->
-      <a href="https://github.com/haovn2411/masstransit-rabbitmq-fanout-exchange"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haovn2411&repo=masstransit-rabbitmq-fanout-exchange&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
+      <a href="https://github.com/haovn2411/masstransit-rabbitmq"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haovn2411&repo=masstransit-rabbitmq&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- bird-selling-api -->
       <a href="https://github.com/HaoVN2411/bird-selling-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haovn2411&repo=bird-selling-api&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
   <!-- Template-3-layers-ASPNETCORE -->
