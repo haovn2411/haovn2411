@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a marketplace**
 
-- 🌱 I’m currently learning **React, Azure, System Design, Architecture Design**
+- 🌱 I’m currently learning **ReactJS, Azure, System Design, Architecture Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaoVN2411](https://github.com/HaoVN2411)
 
